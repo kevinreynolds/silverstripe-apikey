@@ -8,8 +8,8 @@ and other APIs.
 
 ## Requirements
 
- * SilverStripe ^4.0
- * PHP 5.5+
+ * SilverStripe ^5.0
+ * PHP 8.1+
 
 ## Installation
 
